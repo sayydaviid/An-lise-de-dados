@@ -1,4 +1,4 @@
-# 🔍 Organização e Análise de Dados de Canais Bitflip  
+# 🔍 Organização e Análise de Dados
 
 Este notebook tem como objetivo processar e organizar os dados extraídos de um arquivo `.TXT`, contendo informações sobre a fidelidade inicial, requisição e a respectiva porcentagem de sucesso. O resultado final é uma planilha do Excel formatada, facilitando a análise dos dados.  
 
